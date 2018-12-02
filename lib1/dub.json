@@ -1,0 +1,10 @@
+{
+  "name": "lib1",
+  "description": "",
+  "copyright": "Copyright © 2016-2018, Kjartan F. Kvamme",
+  "authors": ["Kjartan F. Kvamme"],
+  "dependencies": {
+    "std_data_json": "~>0.18.2",
+    "lib2": "*"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"name": "app",
+	"authors": ["Kjartan F. Kvamme"],
+	"description": "",
+	"copyright": "Copyright © 2017, Kjartan F. Kvamme",
+  "license": "MIT",
+  "dependencies": {
+    "std_data_json": "~>0.18.2",
+    "lib1": "*",
+    "lib2": "*"
+  }
+}
