@@ -6,7 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "std_data_json": "~>0.18.2",
-    "lib1": "*",
     "lib2": "*"
   }
 }
